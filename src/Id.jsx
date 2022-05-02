@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Id = () => {
-  return <div>Id</div>;
+  return <div>Your id is X.</div>;
 };
 
 export default Id;
